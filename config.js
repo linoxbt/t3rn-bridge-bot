@@ -3,7 +3,7 @@ export class Config {
    *  Network OP <Swap from OP to ARB sepolia
    *  Network ARB <Swap from ARB to OP sepolia
    */
-  static network = "ARB"; //OP or ARB
+  static network = "OP"; //OP or ARB
   static BRIDGEAMOUNT = "0.1";
 
   static OPTOARBBRIDGECONTRACT = "0xf221750e52aa080835d2957f2eed0d5d7ddd8c38";
