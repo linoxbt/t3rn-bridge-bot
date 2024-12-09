@@ -74,9 +74,14 @@ To update bot follow this step :
 
 ## NOTE
 
-You can configure amount to swap on config file
+You can configure 
+- Amount to bridge
+- Network
+- Bridge Contract
+- Raw Data
+On config file
 
-If you did'nt get BRN Point, change the config OP or ARB RAWDATA with yours. Where to get it ? do manual TX from ARB to OP or OP to ARB, and go to explorer and copy the Input Data as HEX.
+If you did'nt get BRN Point, change the config OP or ARB RAWDATA with yours. Where to get it ? do manual TX from ARB to OP or OP to ARB, and go to explorer and copy the Input Data as HEX. Or you can just copy paste from wallet confirmation approval on input / data section.
 
 ## CONTRIBUTE
 
@@ -87,6 +92,6 @@ Feel free to fork and contribute adding more feature thanks. To get original une
 want to support me for creating another bot ?
 **star** my repo or buy me a coffee on
 
-EVM : `0x0fd08d2d42ff086bf8c6d057d02d802bf217559a`
+EVM : `0x1f0ea6e0b3590e1ab6c12ea0a24d3d0d9bf7707d`
 
 SOLANA : `3tE3Hs7P2wuRyVxyMD7JSf8JTAmEekdNsQWqAnayE1CN`
