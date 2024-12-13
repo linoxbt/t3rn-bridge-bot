@@ -42,7 +42,7 @@ New Airdrops : T3RN
    ```
 3. Run 
    ```
-   cp accounts/account_tmp.js accounts/accounts.js
+   cp accounts/accounts_tmp.js accounts/accounts.js
    ```
 4. Run 
    ```
