@@ -7,6 +7,7 @@ export class Config {
   static BRIDGEAMOUNT = "0.8";
   static OPRPCURL = "https://optimism-sepolia.blockpi.network/v1/rpc/private";
   static ARBRPCURL = "https://sepolia-rollup.arbitrum.io/rpc";
+  static GASPRICE = "0.15";
 
   static OPTOARBBRIDGECONTRACT = "0xF221750e52aA080835d2957F2Eed0d5d7dDD8C38";
   static ARBTOOPBRIDGECONTRACT = "0x8D86c3573928CE125f9b2df59918c383aa2B514D";
