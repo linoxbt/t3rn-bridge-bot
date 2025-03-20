@@ -3,7 +3,7 @@
 ## Table Of Contents
 - [T3RN BRIDGE BOT](#t3rn-bridge-bot)
   - [Table Of Contents](#table-of-contents)
-  - [T3RN Airdrop](#t3rn-airdrop)
+  - [T3RN Airdrop V2](#t3rn-airdrop-v2)
   - [BOT FEATURE](#bot-feature)
   - [Prerequisite](#prerequisite)
   - [Setup \& Configure BOT](#setup--configure-bot)
@@ -14,23 +14,22 @@
   - [CONTRIBUTE](#contribute)
   - [SUPPORT](#support)
 
-## T3RN Airdrop
-New Airdrops : T3RN
-🪂 Register : https://bridge.t1rn.io/
-
+## T3RN Airdrop V2
+New Airdrops : T3RN V2
+🪂 Register : https://unlock3d.t3rn.io/
 
 📈 SWAP AND EARN BRN
 
 ## BOT FEATURE
 
 - Multi Account Support
-- Auto Swap Betwen OP > ARB OR ARB > OP
+- Auto Swap Betwen BASE > ARB OR ARB > BASE
 
 ## Prerequisite
 
 - Git
 - Node JS
-- OP Sepolia ETH BALANCE / ARB Sepolia ETH BALANCE Depends on config
+- BASE Sepolia ETH BALANCE / ARB Sepolia ETH BALANCE Depends on config
 
 ## Setup & Configure BOT
 
@@ -76,12 +75,11 @@ To update bot follow this step :
 
 You can configure 
 - Amount to bridge
-- Network
 - Bridge Contract
-- Raw Data
+- Raw Data (1 Account 1 RAW DATA)
 On config file
 
-If you did'nt get BRN Point or not Receiving bridged assets, change the config OP or ARB RAWDATA with yours. Where to get it ? do manual TX from ARB to OP or OP to ARB, and go to explorer and copy the Input Data as HEX. Or you can just copy paste from wallet confirmation approval on input / data section.
+If you did'nt get BRN Point or not Receiving bridged assets, change the config BASE or ARB RAWDATA with yours. Where to get it ? do manual TX from ARB to BASE or BASE to ARB, and go to explorer and copy the Input Data as HEX. Or you can just copy paste from wallet confirmation approval on input / data section.
 
 ## CONTRIBUTE
 
