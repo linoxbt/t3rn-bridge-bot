@@ -48,7 +48,12 @@ New Airdrops : T3RN V2
    nano accounts/account.js
    ```
    and setup your accounts usig PK or Seed
-5. to start the app run 
+5. adjust the `config.js`
+   ```
+   nano config.js
+   ```
+   especially raw data part, to match with your raw data. 1 account have 1 raw data
+6. to start the app run 
    ```
    npm run start
    ```
@@ -61,8 +66,9 @@ New Airdrops : T3RN V2
 5. Navigate to `accounts` directory and rename `accounts_tmp.js` to `accounts.js`.
 6. Open `accounts.js` and setup your wallet. 
 7.  Now back to the `t3rn-bridge-bot` folder
-8.  Copy `config.js` and `accounts` folder to `app` folder
-9.  To start the app open your `Command Prompt` or `Power Shell` again and run `node app/index.js`.
+8.  Adjust `config.js`, especially on BRIDGERAWDATA part, 1 account have 1 raw data
+9.  Copy `config.js` and `accounts` folder to `app` folder
+10. To start the app open your `Command Prompt` or `Power Shell` again and run `node app/index.js`.
 
 ## Update Bot
 
