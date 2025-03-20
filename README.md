@@ -16,7 +16,7 @@
 
 ## T3RN Airdrop V2
 New Airdrops : T3RN V2
-🪂 Register : https://unlock3d.t3rn.io/
+🪂 Register : https://bridge.t2rn.io/
 
 📈 SWAP AND EARN BRN
 
