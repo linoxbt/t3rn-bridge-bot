@@ -45,7 +45,7 @@ New Airdrops : T3RN V2
    ```
 4. Run 
    ```
-   nano accounts/account.js
+   nano accounts/accounts.js
    ```
    and setup your accounts usig PK or Seed
 5. adjust the `config.js`
