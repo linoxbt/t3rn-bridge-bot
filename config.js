@@ -3,7 +3,7 @@ export class Config {
    *  Network ARB <Swap from ARB to Base sepolia
    *  Network BASE <Swap from BASE to ARB sepolia
    */
-  static BRIDGEAMOUNT = "0.1";
+  static BRIDGEAMOUNT = "2";
   static BASERPCURL = "https://sepolia.base.org";
   static ARBRPCURL = "https://sepolia-rollup.arbitrum.io/rpc";
 
