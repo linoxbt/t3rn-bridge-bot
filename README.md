@@ -34,26 +34,33 @@ New Airdrops : T3RN V2
 ## Setup & Configure BOT
 
 ### Linux
-1. Clone project repo `git clone https://github.com/Widiskel/t3rn-bridge-bot.git` and cd to project dir `cd t3rn-bridge-bot`
-2. Run 
+1. Clone project repo
+```bash
+git clone https://github.com/Widiskel/t3rn-bridge-bot.git
+```
+And then
+```bash
+cd t3rn-bridge-bot
+```
+3. Run 
    ```
    npm install
    ```
-3. Run 
+4. Run 
    ```
    cp accounts/accounts_tmp.js accounts/accounts.js
    ```
-4. Run 
+5. Run 
    ```
    nano accounts/accounts.js
    ```
    and setup your accounts usig PK or Seed
-5. adjust the `config.js`
+6. adjust the `config.js`
    ```
    nano config.js
    ```
    especially raw data part, to match with your raw data. 1 account have 1 raw data
-6. to start the app run 
+7. to start the app run 
    ```
    npm run start
    ```
